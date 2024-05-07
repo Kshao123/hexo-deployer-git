@@ -1,6 +1,6 @@
 {
-  "name": "hexo-deployer-git",
-  "version": "3.0.0",
+  "name": "hexo-deployer-git-ksh",
+  "version": "0.0.2",
   "description": "Git deployer plugin of Hexo.",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
     "lib/",
     "index.js"
   ],
-  "repository": "hexojs/hexo-deployer-git",
-  "homepage": "https://hexo.io/",
+  "repository": "https://github.com/Kshao123/hexo-deployer-git.git",
+  "homepage": "https://github.com/Kshao123/hexo-deployer-git.git",
   "keywords": [
     "hexo",
     "git",
